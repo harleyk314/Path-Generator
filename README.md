@@ -8,7 +8,7 @@ A walking simulator of a long, winding path that is procedurally generated, and 
 - Pressing ‘Q’ alternates between walking speed and driving speed.
 ### Extra Controls
 - Holding ‘Z’ shows a second camera perspective.
-- Tap ‘O’ repeatedly to fly
+- Tap ‘O’ repeatedly to fly.
 
 ### Development
 - I generated the long, winding path and its walls using cloning and procedural generation.
