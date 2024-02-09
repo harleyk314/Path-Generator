@@ -1,4 +1,4 @@
-# 3D Path-Generator
+# Path-Generator
 A walking simulator of a long, winding path that is procedurally generated, and is unique on each playthrough.
 
 ![Maze generator gameplay 2](https://github.com/harleyk314/Path-Generator/assets/58278456/237454ca-cf43-4c4f-893b-d9597f35c893)
